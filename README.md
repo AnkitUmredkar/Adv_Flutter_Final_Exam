@@ -17,7 +17,7 @@
 
 
 <div align="center">
-<img height="550" src="https://drive.google.com/file/d/1DYJSoTInsty69-wexEmrVnT1Z1Md4y52/view?usp=drivesdk"/>
+<img height="550" src=""/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="550" src="https://github.com/user-attachments/assets/5c43a6a0-dc16-432b-9ab9-2fac4cc5fa50"/>
 </div>
@@ -27,7 +27,7 @@
 <h3 align="center"> video </h3>
 
 <div align = "center">
-<a  href="https://drive.google.com/drive/folders/1rfRpd0UGNr7MrO4yCJlSusNz3faA6W50"> -> To see video click here <- </a>
+<a  href="https://drive.google.com/file/d/1DYJSoTInsty69-wexEmrVnT1Z1Md4y52/view?usp=drivesdk"> -> To see video click here <- </a>
 </div>
 
 <h1 align="center"> </h1>
