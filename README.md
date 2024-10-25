@@ -1,16 +1,42 @@
-# adv_flutter_final_exam
+<h1 align="center"> Habit Tracker App </h1>
 
-A new Flutter project.
+-  A habit tracker app helps you build and maintain positive routines by tracking daily habits and goals. Easily log activities, set reminders, and visualize your progress with charts and streaks. Stay motivated as you watch your small, consistent actions lead to lasting change!
 
-## Getting Started
+<h1 align="center"> </h1>
 
-This project is a starting point for a Flutter application.
+<h3 align="left"> Feature </h3>
 
-A few resources to get you started if this is your first Flutter project:
+- Create: Add new products to the shopping list.
+- Read: View the list of products.
+- Update: Edit existing product details.
+- Delete: Remove products from the list.
+- Responsive UI: Works well on both Android and iOS devices.
+- Persistent Storage: Data is stored locally, even after closing the app
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<h1 align="center"> </h1>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h3 align="center"> video </h3>
+
+<div align = "center">
+<a  href="https://drive.google.com/drive/folders/1rfRpd0UGNr7MrO4yCJlSusNz3faA6W50"> -> To see video click here <- </a>
+</div>
+
+<h1 align="center"> </h1>
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/56ead1b5-c358-46a3-a33c-e62f0accd818"/>
+</div>
+
+<h1 align="center"> </h1>
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/f6f346c9-6201-46eb-93d1-77c79f2c1b4d"/>
+</div>
+
+<div align="center">
+<img height="550" src="https://github.com/user-attachments/assets/f9af93c0-7d78-4448-9b6b-6f931e92527e"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="550" src="https://github.com/user-attachments/assets/5c43a6a0-dc16-432b-9ab9-2fac4cc5fa50"/>
+</div>
+
+<h1 align="center"> </h1>
