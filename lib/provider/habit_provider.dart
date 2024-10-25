@@ -34,6 +34,7 @@ class HabitProvider extends ChangeNotifier {
   Future<void> getAllHabit() async {
     List tempData = await DataBaseService.dataBaseService.getAllData();
     data = tempData.map((e) => HabitModel.fromMap(e)).toList();
+    calculateProgress();
     notifyListeners();
   }
 

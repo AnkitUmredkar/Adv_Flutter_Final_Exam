@@ -22,7 +22,6 @@ class _HomePageState extends State<HomePage> {
         Provider.of<HabitProvider>(context, listen: true);
     HabitProvider habitProviderFalse =
         Provider.of<HabitProvider>(context, listen: false);
-    habitProviderFalse.calculateProgress();
     return Scaffold(
       appBar: AppBar(
         title: const Text("Habit Tracker"),
@@ -84,7 +83,7 @@ class _HomePageState extends State<HomePage> {
                           color: Colors.blue,
                         ),
                       ),
-                      Text("${habitProviderTrue.per.toStringAsFixed(2)}%")
+                      Text((habitProviderTrue.per > 0) ? "${habitProviderTrue.per.toStringAsFixed(2)}%" : "0.0%")
                     ],
                   ),
                 ),
