@@ -6,28 +6,27 @@
 
 <h3 align="left"> Feature </h3>
 
-- Create: Add new products to the shopping list.
-- Read: View the list of products.
-- Update: Edit existing product details.
-- Delete: Remove products from the list.
+- Create: Add new habits to the habits list.
+- Read: View the list of habits.
+- Update: Edit existing habit details.
+- Delete: Remove habits from the list.
 - Responsive UI: Works well on both Android and iOS devices.
-- Persistent Storage: Data is stored locally, even after closing the app
+- Persistent Storage: Data is stored locally and on cloud storage even after closing the app
 
 <h1 align="center"> </h1>
 
-
 <div align="center">
-<img height="550" src=""/>
+<img height="550" src="https://github.com/user-attachments/assets/5c2418c3-0d83-4875-bd9d-289676817f8b"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="550" src="https://github.com/user-attachments/assets/5c43a6a0-dc16-432b-9ab9-2fac4cc5fa50"/>
 </div>
 
 <h1 align="center"> </h1>
 
-<h3 align="center"> video </h3>
+<h2 align="center"> video </h2>
 
 <div align = "center">
-<a  href="https://drive.google.com/file/d/1DYJSoTInsty69-wexEmrVnT1Z1Md4y52/view?usp=drivesdk"> -> To see video click here <- </a>
+<a  href="https://drive.google.com/file/d/1DYJSoTInsty69-wexEmrVnT1Z1Md4y52/view?usp=drivesdk"> ->📽️📽️ To see video click here 📽️📽️<- </a>
 </div>
 
 <h1 align="center"> </h1>
